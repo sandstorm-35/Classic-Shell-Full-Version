@@ -232,3 +232,6 @@ This repository serves as the official landing page for Classic Shell. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Classic Shell today!**
+
+---
+**Last updated:** 2026-09-11 20:45:13 UTC
